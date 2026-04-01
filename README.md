@@ -34,6 +34,8 @@ Como responsável pela área de dados neste módulo, meu trabalho foca em quatro
 * `data/`: Governança de dados (armazenamento de arquivos `raw` e `processed`).
 * `notebooks/`: Laboratório de pesquisa, Análise Exploratória de Dados (EDA) e prototipagem de modelos.
 * `src/`: Scripts de produção, pipelines de ETL e algoritmos de automação.
+* `dashboard/`: **[Entrega Final]** Interface visual e painéis de indicadores (KPIs) para suporte à decisão.
+* `product/`: 🚀 **[Core Product]** Camada de entrega do produto de dados integrado (Data as a Service).
 
 ## 🤝 Governança e Autoria Técnica
 Este é um projeto colaborativo e transparente. A estrutura e o código presentes neste repositório de Ciência de Dados são de minha autoria, desenvolvidos sob um modelo de mentoria e liderança técnica.
